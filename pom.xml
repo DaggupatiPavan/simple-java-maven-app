@@ -11,7 +11,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.13.2</version>
+      <version>4.2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
@@ -39,7 +39,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.mycompany.app.App</mainClass>
+              <mainClass>com.mycompany.App</mainClass>
             </manifest>
           </archive>
         </configuration>
